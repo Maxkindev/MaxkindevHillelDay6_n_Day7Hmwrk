@@ -1,0 +1,174 @@
+body {
+    width: 2551px;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+.resume-logo {
+    width: 127px;
+    height: 31px;
+    background: url(../images/TheResume.png);
+    margin-top: 205px;
+    margin-left: 1213px;
+}
+
+.graph-painter {
+    font-family: "BebasNeueBook";
+    font-size: 92px;
+    font-weight: normal;
+    text-transform: uppercase;
+    text-align: left;
+    letter-spacing: 6.17px;
+    line-height: 0.75;
+    margin-top: 27px;
+    margin-left: 1001px;
+    color: #22252c;
+}
+
+.underline {
+    width: 130px;
+    height: 14px;
+    background: url(../images/name_underline.png);
+    margin-top: 28px;
+    margin-left: 1211px;
+}
+
+.rectangle {
+    width: 2129px;
+    height: 6px;
+    background: url(../images/Rectangle_2.png);
+    margin-top: 39px;
+    margin-left: 211px;
+}
+.rectangle-v2 {
+    width: 2129px;
+    height: 6px;
+    background: url(../images/Rectangle_2.png);
+    margin-top: 86px;
+    margin-left: 211px;
+}
+
+.design-position {
+    display: inline-block;
+    vertical-align: top;
+    width: 465px;
+    margin-top: 62px;
+    margin-left: 215px;
+    font-family: "Lato";
+    font-size: 63px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 11.25px;
+    background-image: url(../images/Rectangle_3.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #22252c;
+}
+
+.text-address {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 90px;
+    margin-left: 36px;
+    font-family: "Lato";
+    font-size: 29px;
+    font-weight: 300;
+    color: #334454;
+}
+
+.phone-n-fax {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 28px 37px 30px 21px;
+    margin-top: 75px;
+    margin-left: 44px;
+    font-family: "Lato";
+    font-size: 28px;
+    font-weight: 400;
+    letter-spacing: 0.67px;
+    background-color: #ffc600;
+    color: #22252c;
+}
+
+.web-n-mail {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 75px;
+    margin-left: 42px;
+    font-family: "Lato";
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 1.92px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    color: #22252c;
+}
+
+.phone-n-fax__img-phone,
+.phone-n-fax__img-fax,
+.web-n-mail__img-web,
+.web-n-mail__img-mail {
+    vertical-align: middle;
+}
+
+@font-face {
+    font-family: "BebasNeueBook";
+    src: url(../fonts/BebasNeueBook/9116.otf);  /* format("opentype") */
+    /* font-style: normal;
+    font-weight: normal; */
+}
+
+.headline-name {
+    margin-top: 156px;
+    margin-left: 717px;
+    font-family: "Lato";
+    font-size: 42px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.personal-info {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 83px;
+    margin-left: 215px;
+    font-family: "Lato";
+    font-size: 42px;
+    font-weight: 300;
+    color: #22252c;
+}
+
+.span--block {
+    display: block;
+}
+
+.main-text {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 1551px;
+    margin-top: 83px;
+    margin-left: 159px;
+    font-family: "Lato";
+    font-size: 42px;
+    font-weight: 300;
+    text-align: left;
+    color: #000000;
+}
+
+.no-margin-paragraph {
+    margin: 0;
+}
+
+.sign {
+    margin-top: 92px;
+    margin-left: 590px;
+}
+
+.footer-logo {
+    margin-top: 573px;
+    margin-left: 1234px;
+}
